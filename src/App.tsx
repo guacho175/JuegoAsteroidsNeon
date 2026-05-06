@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef, useCallback } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { Trophy, Heart, Play, RefreshCcw, Pause, Terminal, ListOrdered, Menu, X, Save, User, ArrowUp, ArrowLeft, ArrowRight, Focus } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
 
